@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'VIHANGA BOT INC'
-global.ownername = 'Vihanga MD'
-global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
+global.owner = ['94714184446','']
+global.premium = ['94702572157','94764792453']
+global.botname = 'NIROSHAN BOT INC'
+global.ownername = 'Niroshan MD'
+global.group1 = 'https://chat.whatsapp.com/KTuq8qe6AVgA0Gj1qLvC4I'
 global.group2 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
-global.packname = 'VIHANGA BOT INC'
-global.cap = '*By Vihanga MD*'
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8'
+global.packname = 'NIROSHAN BOT INC'
+global.cap = '*By Niroshan MD*'
+global.ytchannel = 'https://www.youtube.com/@Niroshan575'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -34,8 +34,8 @@ global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
 global.dripstyping = false
-global.dripsreadgroup = false
-global.dripsreadall = false
+global.dripsreadgroup = true
+global.dripsreadall = true
 global.dripsrecord = false
 global.available = false
 global.unavailable = true
@@ -46,7 +46,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'VIHANGA BOT INC'
+global.author = 'NIROSHAN BOT INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
